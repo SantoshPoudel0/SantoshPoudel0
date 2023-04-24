@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Full stack developer
-- 📫 How to reach me ...
+- 📫 How to reach me by insta--https://www.instagram.com/santosh_poudel1/
 
 <!---
 SantoshPoudel0/SantoshPoudel0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
