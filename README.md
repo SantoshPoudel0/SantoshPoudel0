@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full stack developer
 - 📫 How to reach me by insta--https://www.instagram.com/santosh_poudel1/
 
-- [![](https://visitcount.itsvg.in/api?id=SantoshPoudel0&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 - <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=SantoshPoudel0&label=Profile%20Views&icon=5&pretty=false" />
