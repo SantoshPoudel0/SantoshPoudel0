@@ -1,3 +1,8 @@
+
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=SantoshPoudel0&label=Profile%20Views&icon=5&pretty=false" />
+</a>
+
 - 👋 Hi, I’m @SantoshPoudel0
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN
@@ -6,9 +11,6 @@
 
 
 
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SantoshPoudel0&label=Profile%20Views&icon=5&pretty=false" />
-</a>
 
 <!---
 SantoshPoudel0/SantoshPoudel0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
