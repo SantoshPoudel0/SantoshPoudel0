@@ -83,27 +83,6 @@ I'm a passionate **MERN Stack Developer** from Nepal, dedicated to building effi
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santoshpoudel1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshpoudel1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshpoudel1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎓 **Computer Engineering Student** - Tribhuvan University
-- 🏅 **MERN Stack Development** - Self-taught and project-based learning
-- 🏅 **Android Development** - Java-based mobile applications
-- 🏅 **Web Development** - Full-stack development expertise
-
----
 
 ## 💼 Professional Experience
 
@@ -130,13 +109,7 @@ I'm a passionate **MERN Stack Developer** from Nepal, dedicated to building effi
 
 ---
 
-## 📈 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshpoudel1&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
 
 ## 🛠️ Development Workflow
 
@@ -159,8 +132,8 @@ npm run dev
 
 ## 📝 Latest Blog Posts
 
-- [Building My First MERN Stack Application](https://www.santoshpoudel1.com.np/blog/mern-first-app)
-- [Android Development with Java: Student List Viewer](https://www.santoshpoudel1.com.np/blog/android-student-app)
+- [Building My First MERN Stack Application](https://www.santoshpoudel1.com.np/blog)
+- [Android Development with Java: Student List Viewer](https://www.santoshpoudel1.com.np/blog/board-questions/bca6sem/mobile-programming)
 - [Learning Web Development: My Journey](https://www.santoshpoudel1.com.np/blog/web-dev-journey)
 
 ---
@@ -197,9 +170,8 @@ npm run dev
 
 ## 📍 Location & Contact
 
-- **📍 Location**: Ghorahi Submetropolitan City, Nepal
-- **📧 Email**: santoshpoudel1@gmail.com
-- **📱 Phone**: +9779847470234
+- **📍 Location**: Ktm City, Nepal
+- **📧 Email**: santoshpoudel604@gmail.com
 - **🌐 Website**: [santoshpoudel1.com.np](https://www.santoshpoudel1.com.np)
 
 ---
