@@ -4,11 +4,13 @@
 </div>
 
 <!-- Typing SVG -->
+<!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=⚛️+Frontend+Developer;🌐+MERN+Stack+Engineer;📱+React+Native+%26+Mobile+Dev;🚀+Next.js+%7C+Performance+Obsessed;🎨+UI%2FUX+That+Actually+Makes+Sense;💻+If+it+renders%2C+I+built+it.;HAHAHAHAHAHAHAHAHA." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Frontend+Developer;MERN+Stack+Engineer;React+Native+%26+Mobile+Developer;Next.js+%7C+Performance+Focused;UI%2FUX+That+Actually+Makes+Sense;If+it+renders%2C+I+built+it."
+    alt="Typing SVG"
+  />
 </div>
-
-<br/>
 
 <!-- Badges -->
 <div align="center">
