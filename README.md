@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=⚛️+Frontend+Developer;🌐+MERN+Stack+Engineer;📱+React+Native+%26+Mobile+Dev;🚀+Next.js+%7C+Performance+Obsessed;🎨+UI%2FUX+That+Actually+Makes+Sense;💻+If+it+renders%2C+I+built+it.;HAHAHAHAHAHAHAHAHA." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=⚛️+Frontend+Developer;🌐+MERN+Stack+Engineer;📱+React+Native+%26+Mobile+Dev;🚀+Next.js+%7C+Performance+Obsessed;🎨+UI%2FUX+That+Actually+Makes+Sense;💻+If+it+renders%2C+I+built+it.;HAHAHAHAHAHAHAHAHA." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -34,7 +34,7 @@
 
 ```javascript
 const developer = {
-  name:     "Your Name",
+  name:     "Santosh Poudel",
   role:     "Frontend Engineer",
   location: "Nepal 🇳🇵",
   hasEgo:   true, // honest
@@ -90,7 +90,7 @@ const developer = {
     <td valign="top" width="25%">
       <h3 align="center">🌿 Backend & DB</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" />
       </div>
     </td>
     <td valign="top" width="25%">
@@ -112,7 +112,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SantoshPoudel0&theme=github-dark-blue&hide_border=true&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" width="600"/>
+  <img src="https://streak-stats.demolab.com?user=SantoshPoudel0&theme=github-dark-blue&hide_border=true&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" width="600"/>
 </div>
 
 ---
@@ -120,7 +120,7 @@ const developer = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SantoshPoudel0/SantoshPoudel0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
