@@ -127,14 +127,6 @@ const developer = {
 
 ---
 
-## 💬 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
----
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" width="100%"/>
