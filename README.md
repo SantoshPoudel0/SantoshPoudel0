@@ -32,47 +32,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```javascript
-const developer = {
-  name:     "Santosh Poudel",
-  role:     "Frontend Engineer",
-  location: "Nepal 🇳🇵",
-  hasEgo:   true, // honest
-
-  stack: {
-    frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    mobile:    ["React Native", "Expo", "Android (Native)", "iOS (Native)"],
-    backend:   ["Node.js", "Express.js"],
-    database:  ["MongoDB", "Mongoose"],
-  },
-
-  currentFocus: [
-    "Next.js App Router & Server Components",
-    "React Native cross-platform apps",
-    "Performance & Web Vitals",
-    "Clean, scalable UI architecture",
-  ],
-
-  beliefs: [
-    "UI is not decoration — it's communication",
-    "Readable code > clever code",
-    "Mobile-first is not optional",
-    "If it lags on low-end devices, it's not done",
-  ],
-
-  // I don't introduce myself.
-  // If you want me, commit your so-called ego
-  // and push into my branch.
-  // I'll slightly merge it —
-  // because yeah, I also have that so-called ego.
-  // HAHAHAHAHAHAHAHAHA.
-};
-```
-
----
-
 ## 🧠 Tech Stack
 
 <table>
