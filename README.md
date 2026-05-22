@@ -65,19 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantoshPoudel0&show_icons=true&theme=github_dark&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshPoudel0&layout=compact&theme=github_dark&hide_border=true&title_color=61DAFB&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SantoshPoudel0&theme=github-dark-blue&hide_border=true&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" width="600"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
